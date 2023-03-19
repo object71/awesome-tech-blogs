@@ -4450,5 +4450,14 @@ module.exports = [
       "MongoDB",
       "Firebase"
     ],
+  },
+  {
+    name: "Hristo Iliev",
+    description: "I'm game developer. I write mostly about low-level game programming and general C and C++ programming.",
+    url: "https://thatonegamedev.com/posts/",
+    twitter: "@object71",
+    tags: [
+      "C++"
+    ],
   }
 ];
